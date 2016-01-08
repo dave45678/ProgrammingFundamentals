@@ -20,6 +20,8 @@ This means that Python 2.7 will remain in place for a long time, providing a sta
 
 
 ###Why learn web programming?
+The only thing between you and the world's data is the browser.
+
 Simply put – most of the exploits we will try in Cybersecurity Fundamentals will require a working knowledge of web communications and protocols. The best way to learn how to exploit a website is to build one.
 
 The Internet is Everywhere
