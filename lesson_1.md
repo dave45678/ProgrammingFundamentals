@@ -20,7 +20,27 @@ Why learn web programming?
 Simply put – most of the exploits we will try in Cybersecurity Fundamentals will require a working knowledge of web communications and protocols. The best way to learn how to exploit a website is to build one.
 
 Ways to learn programming 
-![](get20the20code20on20the20page.png)
+“Get the code on the page.”
+-Quickly create programs by copying
+-Experience working programs in a few minutes
+-Little understanding of “why”
+-Probably won’t pass a decent programming interview
+-Harder time debugging
+
+
+
+“Understand how the code and machine work.”
+-Slower/ more methodical
+-Working conceptual snippets in a few minutes
+-Understanding of why/how and the ability to figure out how and why
+-Probably will pass a decent programming interview
+-Can troubleshoot/problems solve in a variety of tech situations
+-Research universities teach this way
+
+
+We'll try to do a little of both but because of time we will be much more focused on the former. That means that you'll be able to develop working programs during this course but unless you spend time on your own exploring, resesarching and attempting to understand what you have done you won't be able to create working programs of sufficient complexity on your own.
+ 
+The first way is great for getting an overview and helping to determine if you're suited to programming without making sufficiently large investment. However, if you want to become a professional programmer it isn't going to cut it. 
 
 what is a scripting language
 what is object-oriented programming
