@@ -4,6 +4,8 @@ PyCharm can be found at https://download.jetbrains.com/python/pycharm-community-
 
 
 difference betw 2.7 and 3.5
+The End Of Life date (EOL, sunset date) for Python 2.7 has been moved five years into the future, to 2020. This decision was made to clarify the status of Python 2.7 and relieve worries for those users who cannot yet migrate to Python 3. 
+
 Python 2.7 is the last major release in the 2.x series, as the Python maintainers have shifted the focus of their new feature development efforts to the Python 3.x series. This means that while Python 2 continues to receive bug fixes, and to be updated to build correctly on new hardware and versions of supported operated systems, there will be no new full feature releases for the language or standard library.
 
 However, while there is a large common subset between Python 2.7 and Python 3, and many of the changes involved in migrating to that common subset, or directly to Python 3, can be safely automated, some other changes (notably those associated with Unicode handling) may require careful consideration, and preferably robust automated regression test suites, to migrate effectively.
