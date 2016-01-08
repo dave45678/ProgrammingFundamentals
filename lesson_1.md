@@ -16,10 +16,23 @@ However, while there is a large common subset between Python 2.7 and Python 3, a
 This means that Python 2.7 will remain in place for a long time, providing a stable and supported base platform for production systems that have not yet been ported to Python 3. The full expected lifecycle of the Python 2.7 series is detailed in PEP 373.
 
 
-Why learn web programming?
+###Why learn web programming?
 Simply put – most of the exploits we will try in Cybersecurity Fundamentals will require a working knowledge of web communications and protocols. The best way to learn how to exploit a website is to build one.
 
-Ways to learn programming 
+The Internet is Everywhere
+As a Web developer, you’re going to have an impact. The Web has become ubiquitous, and your work will be used by people around the world as they hunt for information, conduct transactions of almost every sort, and communicate with friends, family, and business contacts through social media.
+
+The Field is Expanding
+The Web isn’t just about the Web anymore. When companies think about their websites today, they think about mobile technology and social media at the same time. The increasing use of smartphones, tablets, Internet TV, and even wearable technology needs to be taken into account by development teams when websites are designed and built. That’s expanding the reach of Web developers and the audiences they serve.
+
+It’s Flexible
+Web development has a lot of facets — the front end, the back end, the mobile Web, content management systems and e-commerce, to name just some. This gives professionals a range of paths to choose from as they go about planning their careers. For example, a PHP developer might focus on WordPress, while a front-end specialist develops expertise in Angular.
+
+At the same time, new tools are making it easier to evolve your skills. By using Node.js, for instance, JavaScript developers can more easily apply their talents to back-end projects.
+
+“This is really appealing work,” said Jake Spurlock, an engineer on Wired’s technical team, who sees Web development as being ideal for people who enjoy digging into details. “If you like solving problems, software development can be really rewarding.
+
+###Ways to learn programming 
 “Get the code on the page.”
 -Quickly create programs by copying
 -Experience working programs in a few minutes
@@ -42,7 +55,7 @@ We'll try to do a little of both but because of time we will be much more focuse
  
 The first way is great for getting an overview and helping to determine if you're suited to programming without making sufficiently large investment. However, if you want to become a professional programmer it isn't going to cut it. 
 
-what is a scripting language
+###What is a scripting language
 Traditionally, scripting may have referred to “incomplete” or “limited” languages. Usually used as the “glue” that tied different applications together, or just as an easy language to write something quick and dirty to automate some mundane task.
 
 maybe 10 years ago JavaScript may have been considered a “limited” language – back when it was really mostly used to do some quick form validation or scroll some text on your browser, however that is no longer true today. This misunderstanding of JavaScript today is mostly accredited to developers that don’t understand it or have only used it to scroll text across a screen – and because it ends in “script”. Turn off JavaScript in your browser and try GMail, Facebook or even Google+. This is no longer an “incomplete” or “limited” language – in fact your web application would look incomplete without it; 1995 incomplete. Building a JavaScript based application today requires the same thinking and design you would give while building an application in C or Java. You need to apply the same design patterns that apply on the back-end. Speaking of the back-end, today you can even run JavaScript on the server side. So I can technically write a full GMail clone in just JavaScript.
@@ -71,7 +84,7 @@ Java (but note that Java is compiled to bytecode, which is then interpreted and/
 
 
 
-what is object-oriented programming
+###What is object-oriented programming
 what are variables - containers in memory for your program to use
 how do you name variables
 what are data types
