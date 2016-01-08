@@ -1,4 +1,8 @@
-* download and install python and pycharm
+Activity: download and install python and pycharm (community edition)
+Python can be found at https://www.python.org/downloads/
+PyCharm can be found at https://download.jetbrains.com/python/pycharm-community-5.0.3.exe
+
+
 difference betw 2.7 and 3.5
 > discussion:
 why we are using python for cyber security
