@@ -43,6 +43,11 @@ We'll try to do a little of both but because of time we will be much more focuse
 The first way is great for getting an overview and helping to determine if you're suited to programming without making sufficiently large investment. However, if you want to become a professional programmer it isn't going to cut it. 
 
 what is a scripting language
+Traditionally, scripting may have referred to “incomplete” or “limited” languages. Usually used as the “glue” that tied different applications together, or just as an easy language to write something quick and dirty to automate some mundane task.
+
+maybe 10 years ago JavaScript may have been considered a “limited” language – back when it was really mostly used to do some quick form validation or scroll some text on your browser, however that is no longer true today. This misunderstanding of JavaScript today is mostly accredited to developers that don’t understand it or have only used it to scroll text across a screen – and because it ends in “script”. Turn off JavaScript in your browser and try GMail, Facebook or even Google+. This is no longer an “incomplete” or “limited” language – in fact your web application would look incomplete without it; 1995 incomplete. Building a JavaScript based application today requires the same thinking and design you would give while building an application in C or Java. You need to apply the same design patterns that apply on the back-end. Speaking of the back-end, today you can even run JavaScript on the server side. So I can technically write a full GMail clone in just JavaScript.
+
+
 what is object-oriented programming
 what are variables - containers in memory for your program to use
 how do you name variables
