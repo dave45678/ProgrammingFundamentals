@@ -1,9 +1,12 @@
+###Getting your computer ready
 Activity: download and install python and pycharm (community edition)
 Python can be found at https://www.python.org/downloads/
 PyCharm can be found at https://download.jetbrains.com/python/pycharm-community-5.0.3.exe
+Using the command line
+Using Anaconda and iPython
 
 
-Why learn Python?
+###Why learn Python?
 Python is a gateway language. It is a scripting language and is easy to install on any platform. It follows object‐oriented structures, meaning that you can apply its syntax and core constructs to other object‐oriented languages that you may be asked to learn (Java, C#, etc). Python is also the language of choice for many open‐source projects due to its ease of use and robust libraries, particularly in the security community. 
 
 Difference betw 2.7 and 3.5
@@ -31,6 +34,8 @@ Web development has a lot of facets — the front end, the back end, the mobile 
 At the same time, new tools are making it easier to evolve your skills. By using Node.js, for instance, JavaScript developers can more easily apply their talents to back-end projects.
 
 “This is really appealing work,” said Jake Spurlock, an engineer on Wired’s technical team, who sees Web development as being ideal for people who enjoy digging into details. “If you like solving problems, software development can be really rewarding.
+
+
 
 ###Ways to learn programming 
 “Get the code on the page.”
