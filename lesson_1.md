@@ -48,6 +48,29 @@ Traditionally, scripting may have referred to “incomplete” or “limited” 
 maybe 10 years ago JavaScript may have been considered a “limited” language – back when it was really mostly used to do some quick form validation or scroll some text on your browser, however that is no longer true today. This misunderstanding of JavaScript today is mostly accredited to developers that don’t understand it or have only used it to scroll text across a screen – and because it ends in “script”. Turn off JavaScript in your browser and try GMail, Facebook or even Google+. This is no longer an “incomplete” or “limited” language – in fact your web application would look incomplete without it; 1995 incomplete. Building a JavaScript based application today requires the same thinking and design you would give while building an application in C or Java. You need to apply the same design patterns that apply on the back-end. Speaking of the back-end, today you can even run JavaScript on the server side. So I can technically write a full GMail clone in just JavaScript.
 
 
+Scripting languages are programming languages that don't require an explicit compilation step.
+
+For example, in the normal case, you have to compile a C program before you can run it. But in the normal case, you don't have to compile a JavaScript program before you run it. So JavaScript is sometimes called a "scripting" language.
+
+This line is getting more and more blurry since compilation can be so fast with modern hardware and modern compilation techniques. For instance, V8, the JavaScript engine in Google Chrome and used a lot outside of the browser as well, actually compiles the JavaScript code on the fly into machine code, rather than interpreting it. (In fact, V8's an optimizing two-phase compiler.)
+
+Also note that whether a language is a "scripting" language or not can be more about the environment than the language. There's no reason you can't write a C interpreter and use it as a scripting language (and people have). There's also no reason you can't compile JavaScript to machine code and store that in an executable file (and people have). The language Ruby is a good example of this: The original implementation was entirely interpreted (a "scripting" language), but there are now multiple compilers for it.
+
+Some examples of "scripting" languages (e.g., languages that are traditionally used without an explicit compilation step):
+
+Lua
+JavaScript
+VBScript and VBA
+Python
+And a small smattering of ones traditionally used with an explicit compilation step:
+
+C
+C++
+D
+Java (but note that Java is compiled to bytecode, which is then interpreted and/or recompiled at runtime)
+
+
+
 what is object-oriented programming
 what are variables - containers in memory for your program to use
 how do you name variables
