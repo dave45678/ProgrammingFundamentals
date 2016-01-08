@@ -94,7 +94,11 @@ Java (but note that Java is compiled to bytecode, which is then interpreted and/
 ###What is object-oriented programming (moved)
 
 what are variables - containers in memory for your program to use
-how do you name variables
+
+###How do you name variables
+One of Guido's key insights is that code is read much more often than it is written. The guidelines provided here are intended to improve the readability of code and make it consistent across the wide spectrum of Python code. As PEP 20 says, "Readability counts".
+
+
 what are data types
 what does it mean that python is not heavily typed
 what are some types of variables in python 
