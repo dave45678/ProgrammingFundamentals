@@ -4,7 +4,7 @@ Python can be found at https://www.python.org/downloads/
 PyCharm can be found at https://download.jetbrains.com/python/pycharm-community-5.0.3.exe
 Using the command line
 Using Anaconda and iPython
-
+Coding Groud is an online IDE
 
 ###Why learn Python?
 Python is a gateway language. It is a scripting language and is easy to install on any platform. It follows object‐oriented structures, meaning that you can apply its syntax and core constructs to other object‐oriented languages that you may be asked to learn (Java, C#, etc). Python is also the language of choice for many open‐source projects due to its ease of use and robust libraries, particularly in the security community. 
