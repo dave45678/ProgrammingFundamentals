@@ -12,12 +12,10 @@ GitHub Pages is a free offering from GitHub.com that allows you to sites are pub
 This page will show repositories that have a description. So if you have a repository you don't want included then don't include a description. This page will display the repository name, the programming language and the description.
 
 ###Create a GitHub Pages repository
-Head over to GitHub and create a new repository named username.github.io, where username is your username on GitHub.
-
-If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right. 
+Create a new GitHub repository named username.github.io, where username is your username on GitHub. GitHub documentation says that the first part of the repository must exactly match your username. 
 
 ###Create a Readme.md file
-
+It's just good practice to have a Readme file for every project. The Readme file  is a good place for a brief summary of your project.
 
 ###Create an index page 
 Create a web page called index.html.  A minimal HTML5 page is below.
