@@ -1,6 +1,18 @@
 ###Use JavaScript to display your GitHub projects
 ####and host them for free on GitHub pages
 
+
+Prerequisite: you should have multiple GitHub repositories already. If not, go back and create them.
+If you have a linkedIn repository or blog or other sites you wish to link from this site then you can. If you have an existing domain (or want to register a new domain) then you can add links to that as well. I'll show you how to 
+
+We will be creating this solution with GitHub, Prose, JavaScript, HTML, BootStrap, Gravatar, 
+
+###Create a GitHub repository
+
+###Create a Readme.md file
+
+
+###Create an index page 
 Create a web page called index.html
 
 
@@ -53,3 +65,6 @@ jQuery.fn.loadRepositories = function(username) {
     });
 </script>
 ```
+
+
+https://api.github.com/users/dave45678/repos
