@@ -3,15 +3,19 @@
 
 
 Prerequisite: you should have multiple GitHub repositories already. If not, go back and create them.
-If you have a linkedIn repository or blog or other sites you wish to link from this site then you can. If you have an existing domain (or want to register a new domain) then you can add links to that as well. I'll show you how to 
+If you have a linkedIn repository or blog or other sites you wish to link from this site then you can. If you have an existing domain (or want to register a new domain) then you can add links to that as well. Finally, I'll show you how to map your custom domain to the GitHub Pages site. 
+
+GitHub Pages sites are publicly available on the internet. Even if their repositories are private. Sensitive data in your Page repository may be visible.
 
 We will be creating this solution with GitHub, Prose, JavaScript, HTML, BootStrap, Gravatar, 
 
 ####Organize your existing GitHub repositories
-This page will only show repositories that have a description. So if you have a repository you don't want included then don't include a description. This page will display the repository name, the language and the description.
+This page will show repositories that have a description. So if you have a repository you don't want included then don't include a description. This page will display the repository name, the language and the description.
 
-###Create a GitHub repository
- f
+###Create a GitHub Pages repository
+Head over to GitHub and create a new repository named username.github.io, where username is your username on GitHub.
+
+If the first part of the repository doesn’t exactly match your username, it won’t work, so make sure to get it right. 
 
 ###Create a Readme.md file
 
