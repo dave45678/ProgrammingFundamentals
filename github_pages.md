@@ -2,10 +2,9 @@
 ####and host them for free on GitHub pages
 
 
-Prerequisite: you should have multiple GitHub repositories already. If not, go back and create them.
-If you have a linkedIn repository or blog or other sites you wish to link from this site then you can. If you have an existing domain (or want to register a new domain) then you can add links to that as well. Finally, I'll show you how to map your custom domain to the GitHub Pages site. 
+**Prerequisite**: you should have multiple GitHub repositories already. If not, go back and create them. If you use linkedIn or have a blog you wish to link from this site then you can. I'll also show you how to redirect a custom domain to this site as well. You can use your existing domain or register a new domain. 
 
-GitHub Pages sites are publicly available on the internet. Even if their repositories are private. Sensitive data in your Page repository may be visible.
+GitHub Pages is a free offering from GitHub.com that allows you to sites are publicly available on the internet. 
 
 We will be creating this solution with GitHub, Prose, JavaScript, HTML, BootStrap, Gravatar, 
 
