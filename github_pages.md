@@ -26,6 +26,8 @@ If you wish to complete this tutorial from your computer then you need to clone 
 git clone https://username@github.com/username/repositoryname.git
 ```
 
+**List git commands you need**
+
 ###Create an index page 
 Create a web page called index.html.  A minimal HTML5 page is below. You can create this page locally or work directly from GitHub. 
 ```html
@@ -115,7 +117,7 @@ Your index page should now showyour repositories.
 ###Register a domain
 hover.com
 
-###Add a CNAME
+###Add a CNAME file
 
 ###
 https://api.github.com/users/dave45678/repos
