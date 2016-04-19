@@ -17,8 +17,14 @@ Create a new GitHub repository named username.github.io, where username is your 
 ###Create a Readme.md file
 It's just good practice to have a Readme file for every project. The Readme file  is a good place for a brief summary of your project.
 
+###Working from the GitHub site
+So you can complete this tutorial without additional software we'll work directly in the browser. 
+
+###Working from your computer
+If you wish to complete this tutorial from your computer then you need to 
+
 ###Create an index page 
-Create a web page called index.html.  A minimal HTML5 page is below.
+Create a web page called index.html.  A minimal HTML5 page is below. You can create this page locally or work directly from GitHub. 
 ```html
  <!DOCTYPE html>
 <html>
