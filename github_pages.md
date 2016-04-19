@@ -106,4 +106,16 @@ Your index page should now showyour repositories.
 
 ###Add Bootstrap
 
+###Add a link to LinkedIn (or your blog, etc)
+
+
+###Check out your page
+
+
+###Register a domain
+hover.com
+
+###Add a CNAME
+
+###
 https://api.github.com/users/dave45678/repos
