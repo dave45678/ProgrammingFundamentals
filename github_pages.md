@@ -21,7 +21,18 @@ If the first part of the repository doesn’t exactly match your username, it wo
 
 
 ###Create an index page 
-Create a web page called index.html
+Create a web page called index.html.  A minimal HTML5 page is below.
+```html
+ <!DOCTYPE html>
+<html>
+<head>
+<title>Your Page Title</title>
+</head>
+<body>
+
+</body>
+</html> 
+```
 
 
 
