@@ -42,9 +42,16 @@ Create a web page called index.html.  A minimal HTML5 page is below. You can cre
 </html> 
 ```
 
+###Add a link to include jQuery
+jQuery is a JavaScript library which simplifies HTML scripting. It's free and open-source. We'll use jQuery to get the repository list. The script below will parse through the JSON-formatted list. It will generate an HTML list of your GitHub projects with descriptions.
 
+Add the script tags for the JQuery library just below the closing head tag. Do not put these in between the other script tags. You'll use them in the next step. 
+```html
+<!-- jQuery library -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+```
 
-1. Add the following code between script tags or as an external script. I saved mine in a file called listrepos.js which is in the javascript directory.
+Add the following code between script tags or as an external script. I saved mine in a file called listrepos.js which is in the javascript directory.
 
 
 ```javascript
@@ -81,7 +88,7 @@ jQuery.fn.loadRepositories = function(username) {
 };
 
 ```
-2. Add the following code to the index.html page. It should appear just before the closing tag for ```</head>```.
+I saved my scripts in a file called listrepos.js. It's in the scripts directory I created. I then added the code below to the index.html page. It should appear just before the closing tag for ```</head>```.
 
 
 ```html
@@ -92,6 +99,11 @@ jQuery.fn.loadRepositories = function(username) {
     });
 </script>
 ```
+Your index page should now showyour repositories.
 
+###Add a Gravatar
+
+
+###Add Bootstrap
 
 https://api.github.com/users/dave45678/repos
