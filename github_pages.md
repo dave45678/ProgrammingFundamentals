@@ -7,7 +7,11 @@ If you have a linkedIn repository or blog or other sites you wish to link from t
 
 We will be creating this solution with GitHub, Prose, JavaScript, HTML, BootStrap, Gravatar, 
 
+####Organize your existing GitHub repositories
+This page will only show repositories that have a description. So if you have a repository you don't want included then don't include a description. This page will display the repository name, the language and the description.
+
 ###Create a GitHub repository
+ f
 
 ###Create a Readme.md file
 
