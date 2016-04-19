@@ -18,10 +18,13 @@ Create a new GitHub repository named username.github.io, where username is your 
 It's just good practice to have a Readme file for every project. The Readme file  is a good place for a brief summary of your project.
 
 ###Working from the GitHub site
-So you can complete this tutorial without additional software we'll work directly in the browser. 
+You can complete this tutorial without additional software if you wish to work directly in the browser. Browse to Prose.io and allow Prose to access your GitHub repositories. Then select the GitHub Pages repository you created above.
 
 ###Working from your computer
-If you wish to complete this tutorial from your computer then you need to 
+If you wish to complete this tutorial from your computer then you need to clone your repository. Open a terminal in your home or workspace folder. 
+```
+git clone https://username@github.com/username/repositoryname.git
+```
 
 ###Create an index page 
 Create a web page called index.html.  A minimal HTML5 page is below. You can create this page locally or work directly from GitHub. 
@@ -31,6 +34,8 @@ Create a web page called index.html.  A minimal HTML5 page is below. You can cre
 <head>
 <title>Your Page Title</title>
 </head>
+<script>
+</script>
 <body>
 
 </body>
@@ -80,8 +85,8 @@ jQuery.fn.loadRepositories = function(username) {
 
 
 ```html
-<script src="scripts/listrepos.js" type="text/javascript"></script>
-<script type="text/javascript">
+<script src="scripts/listrepos.js"></script>
+<script>
     $(function() {
         $("#my-github-projects").loadRepositories("dave45678");
     });
