@@ -1,4 +1,4 @@
 # Summary
 
-* GitHub Pages
+* [GitHub Pages](github_pages.md)
 
