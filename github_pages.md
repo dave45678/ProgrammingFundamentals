@@ -15,7 +15,7 @@ This page will list repositories that have a description. If you have a reposito
 Create a new GitHub repository named username.github.io, where username is your username on GitHub.  The first part of the repository must exactly match your username. 
 
 ###Create a Readme.md file
-It's just good practice to have a Readme file for every project. The Readme file  is a good place for a brief summary of your project.
+It's good practice to have a Readme file for every project. The Readme file  is a good place for a brief summary of your project. This tutorial will work without a readme file but the readme is your way of telling other GitHub users what your project is about.
 
 ###Working from the GitHub site
 You can complete this tutorial without additional software if you wish to work directly in the browser. Browse to Prose.io and allow Prose to access your GitHub repositories. Then select the GitHub Pages repository you created above.
