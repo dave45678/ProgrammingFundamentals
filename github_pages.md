@@ -169,7 +169,3 @@ You can set up a URL redirect to forward your domain to any destination page of 
 
 ###Add a CNAME file
 Create a text file called ```CNAME``` in your GitHub pages site. It should contain one line.. your domain. 
-
-
-###What is JSON?
-https://api.github.com/users/dave45678/repos
