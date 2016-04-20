@@ -125,7 +125,15 @@ Bootstrap is a front end web framework, that is, an interface for the user, unli
 
 Since version 2.0 it also supports responsive web design. This means the layout of web pages adjusts dynamically, taking into account the characteristics of the device used (desktop, tablet, mobile phone).
 
+To make your page work with Bootstrap add the following code to your index.html page in the ```<head></head>``` section. Bootstrap requires jQuery but since we added that earlier then it isn't necessary to add it again.
 
+```html
+<!-- Bootstrap -->
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<!-- Latest compiled JavaScript -->
+<script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+```
 
 ###Add a link to LinkedIn (or your blog, etc)
 
