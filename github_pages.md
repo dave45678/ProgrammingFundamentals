@@ -104,6 +104,8 @@ Next, add the code below to the index.html page. It should appear just before th
 Your index page should now show your repositories. You can browse to it by browsing to ```http://username.github.io```.
 
 ###Add a Gravatar
+Gravatar (a portmanteau of globally recognized avatar) is a service for providing globally unique avatars which was created by Tom Preston-Werner. Since 2007, it has been owned by Automattic, who have integrated it into their WordPress.com blogging platform.
+Gravatar allows you to create a global avatar which follows you around. We're going to use their service to add an avatar to this page.
 
 
 ###Add Bootstrap
