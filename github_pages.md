@@ -1,7 +1,7 @@
 <!--
 https://api.github.com/users/dave45678/repos
 -->
-###Use JavaScript to display your GitHub projects
+###Use JavaScript to Dynamically Display your GitHub projects
 ####and host them for free on GitHub pages
 
 
@@ -219,4 +219,15 @@ A domain name allows you to create a customized url for your GitHub resume. Gett
 You can set up a URL redirect to forward your domain to any destination page of your choice. When you set up a URL redirect for a domain, it may be 30 minutes before the redirect works .
 
 ###Add a CNAME file
-Create a text file called ```CNAME``` in your GitHub pages site. It should contain one line.. your domain. 
+Create a text file called ```CNAME``` in your GitHub pages site. It should contain one line.. your domain. This file is necessary for the DNS to redirect to your site.
+
+####Add the rest of your resume
+Add additonal information about your career. This might include work history and contact infomation. You can even add more projects that you aren't in GitHub.
+
+###Conclusion
+As you continue to add projects to GitHub they will show on your resume page. Your resume will always be up-to-date. In upcomping posts I'll show you how to get information from a Google spreadsheet and display it on your resume. And I'll show you how to use GitHub pages as a blog.
+
+
+Please let me know what else you would like to know about. You can reach me at ```dave45678@gmail.com```.
+
+
