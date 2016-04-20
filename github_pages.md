@@ -136,6 +136,9 @@ To make your page work with Bootstrap add the following code to your index.html 
 ```
 
 ###Add a link to LinkedIn (or your blog, etc)
+Millions of professionals use 
+
+
 
 
 ###Check out your page
