@@ -123,16 +123,16 @@ Next, add the code below to the index.html page. It should appear just before th
 Your index page should now show your repositories. You can browse to it by browsing to ```http://username.github.io```.
 
 ###Add a Gravatar
-Gravatar is a service for providing globally unique avatars. Gravatars can be used on any site. Gravatar works by returning an image for the email address of hte user. The email address must be converted to an MD5 hash.
+Gravatar is a service for providing globally unique avatars. An avatar is a image that identifies you on blogs and other online sites. Gravatar allows you to create and maintian one image for all your sites. Gravatar works by returning an image for the email address of the user. The email address must be converted to an MD5 hash. An MD5 hash is a 32 character string that uniquely identifies your email address.
 
-All URLs on Gravatar are based on the use of the hashed value of an email address. Images and profiles are accessed via the hash of an email. It is considered the primary way of identifying an identity within the system. Follow the following steps to ensure a consistent and accurate hash.
+All URLs on Gravatar are based on the use of the hashed value of an email address. The hash identifies your identity within the system. Follow the following steps to ensure a consistent and accurate hash.
 1. Trim leading and trailing whitespace from an email address
 2. Force all characters to lower-case
-3. Generate an MD5 hash the final string
+3. Generate an MD5 hash of the cleaned-up email address
 
-We're going to use their service to add an avatar to this page. If you don't have an account at Gravatar then visit their site (http://www.gravatar.com) and create one now. 
+We're going to use Gravatar to add an avatar to this page. If you don't have an account at Gravatar then visit their site (http://www.gravatar.com) and create one now. 
 
-To test your gravatar simply calculate the MD5 of your email address and browse to https://www.gravatar.com/HASH where HASH is your MD5 hash. 
+To test your gravatar calculate the MD5 of your email address and browse to ```https://www.gravatar.com/HASH``` where HASH is your MD5 hash. You can use a site such as ```http://www.md5hashgenerator.com/``` to generate the hash.
 
 Once you calculate your hash add ```<img id="gravatar" src="http://gravatar.com/avatar/HASH?s=200" alt="YOUR_NAME"/> ``` to display your Gravatar image to the index.html page. Replace HASH and YOUR_NAME with the MD5 hash and your name.
 
@@ -144,7 +144,7 @@ Bootstrap is a front end web framework, that is, an interface for the user, unli
 
 Since version 2.0 it also supports responsive web design. This means the layout of web pages adjusts dynamically, taking into account the characteristics of the device used (desktop, tablet, mobile phone).
 
-To make your page work with Bootstrap add the following code to your index.html page in the ```<head></head>``` section. Bootstrap requires jQuery but since we added that earlier then it isn't necessary to add it again.
+To make your page work with Bootstrap add the following code to your index.html page in the ```<head></head>``` section. *Bootstrap requires jQuery*. We added that earlier so it isn't necessary to add it again.
 
 ```html
 <!-- Bootstrap -->
