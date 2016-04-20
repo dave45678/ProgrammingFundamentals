@@ -112,6 +112,9 @@ Bootstrap is a free and open-source front-end library for creating websites and 
 
 Bootstrap is a front end web framework, that is, an interface for the user, unlike the server-side code which resides on the "back end" or server.
 
+Since version 2.0 it also supports responsive web design. This means the layout of web pages adjusts dynamically, taking into account the characteristics of the device used (desktop, tablet, mobile phone).
+
+
 
 ###Add a link to LinkedIn (or your blog, etc)
 
