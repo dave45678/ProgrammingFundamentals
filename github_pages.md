@@ -104,7 +104,10 @@ Next, add the code below to the index.html page. It should appear just before th
 Your index page should now show your repositories. You can browse to it by browsing to ```http://username.github.io```.
 
 ###Add a Gravatar
-Gravatar is a service for providing globally unique avatars. It was created by Tom Preston-Werner. Tom Preston-Werner is a co-founder of GitHub. Gravatar allows you to create a global avatar which follows you around. We're going to use their service to add an avatar to this page.
+Gravatar is a service for providing globally unique avatars. You create a global avatar which follows you around. We're going to use their service to add an avatar to this page.
+
+
+
 
 
 ###Add Bootstrap
