@@ -20,6 +20,8 @@ Create a new GitHub repository named username.github.io, where username is your 
 ###Create a branch for gh-pages
 You'll create your site on the branch called gh-pages. You can create that when set up your repository on GitHub.
 
+All the work during this tutorial should be done under the gh-pages branch.
+
 ###Create a Readme.md file
 It's good practice to have a Readme file for every project. The Readme file  is a good place for a brief summary of your project. This tutorial will work without a readme file but the readme is your way of telling other GitHub users what your project is about.
 
@@ -46,7 +48,7 @@ git status
 ```
 
 ###Create an index page 
-Work on the gh-pages branch. Create a web page called index.html.  A minimal HTML5 page is below. You can create this page locally or work directly from GitHub. 
+**Work on the gh-pages branch**. Create a web page called index.html.  A minimal HTML5 page is below. You can create this page locally or work directly from GitHub. 
 ```html
  <!DOCTYPE html>
 <html>
