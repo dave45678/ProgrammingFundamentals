@@ -165,8 +165,7 @@ You can set up a custom url in for your GitHub Pages site. First you need to reg
 A domain name allows you to create a customized url for your resume. Getting a domain name involves registering the name you want with an organization called ICANN. You register the name through a domain name registrar. I recommend hover.com. Once you choose a name you need to go to the hover.com and pay a registration fee that runs from $10 to $35 for most domain names.
 
 ###Configure your DNS
-Once you register the domain you need to set up an A record to point your new domain to GitHub pages.
-
+You can set up a URL redirect to forward your domain (e.g., http://yourdomain.tld) or subdomain comsubdomain.yourdomain.tld) to any destination page of your choice. Usually, when you set up a URL redirect for a domain, it takes 30 minutes to take effect.
 
 
 ###Add a CNAME file
