@@ -156,6 +156,46 @@ When we add links to external sites such as maxcdn.com shown below we are access
 <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
 ```
 
+####Add a Bootstrap Navigation Bar
+A navigation bar is a header that placed at the top of the page. A Bootstrap navigation bar can expand or collapse, depending on the screen size. A  navigation bar is created with ```<nav class="navbar navbar-default">```.
+
+Copy the code below to and add it to your page, just below the ```<body>``` tag.
+
+```html
+ <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Dave Wolf, PMP</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+            <li><a href="#github">Projects</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+```
+
+The navigation bar above will allow you to jump to whatever page is listed in the href attributes. I have it set to go to #about, #contact and #github. There are locations within the current page. To create a location add the following tag for each location. Your locations may vary.
+
+I added the following code below the image. 
+
+```html
+<p/>	
+  	<a href="github"></a><h1>My GitHub Projects</h1>  
+    <div id="my-github-projects"></div>
+```
+
+
 ###Add a link to LinkedIn (or your blog, etc)
 Professionals all over the world use LinkedIn to manage their professional identity and develop their professional network. You should do the same. If you don't have a linkedIn account then you should create one now. If you'd rather link to a blog or other website that's fine, too.
 
