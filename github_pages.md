@@ -45,7 +45,7 @@ Create a web page called index.html.  A minimal HTML5 page is below. You can cre
 ```
 
 ###Add a link to include jQuery
-jQuery is a JavaScript library which simplifies HTML scripting. It's free and open-source. We'll use jQuery to get the repository list. The script below will parse through the JSON-formatted list. It will generate an HTML list of your GitHub projects with descriptions.
+jQuery is a JavaScript library which simplifies HTML scripting. It's free and open-source. We'll use jQuery to retrieve your repository list. The script below will parse through the JSON-formatted list. It will generate an HTML list of your GitHub projects with descriptions.
 
 Add the script tags for the JQuery library just below the closing head tag. Do not put these in between the other script tags. You'll use them in the next step. 
 ```html
