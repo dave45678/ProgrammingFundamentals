@@ -156,12 +156,12 @@ Creating a link that opens in a new window is as simple as adding an anchor tag 
 ```
 
 ###Check out your page
-Congratulations on making it this far. Take a moment to browse to your page and check it out. You can then send the link to your friends and let them know how smart you are. The url for your 
+Congratulations on making it this far. Take a moment to browse to your page and check it out. You can then send the link to your friends and let them know how smart you are. The url for your site is ```http://YOUR_NAME.github.io```.
 
 ###Register a domain
 A domain name allows you to create a customized url for your resume. Getting a domain name involves registering the name you want with an organization called ICANN. You register the name through a domain name registrar. I recommend hover.com. Once you choose a name you need to go to the hover.com and pay a registration fee that runs from $10 to $35 for most domain names.
 
-Once you register the domain you need to set up an A record 
+Once you register the domain you need to set up an A record to point your new domain to GitHub pages.
 
 
 
