@@ -2,11 +2,11 @@
 ####and host them for free on GitHub pages
 
 
-**Prerequisite**: you should have multiple GitHub repositories already. If not, go back and create them. If you use linkedIn or have a blog you wish to link from this site then you can. I'll also show you how to redirect a custom domain to this site as well. You can use your existing domain or register a new domain. 
+**Prerequisite**: you should have multiple GitHub repositories already. If not, go back and create some. If you use linkedIn or have a blog you wish to link from this site then you can. I'll also show you how to redirect a custom domain to this site as well. You can use your existing domain or register a new domain. 
 
-GitHub Pages is a free offering from GitHub.com that allows you to sites are publicly available on the internet. 
+GitHub Pages is a free offering from GitHub.com. Pages allows you to host pages. The pages can be for a particular project. Or they can be for something else. Today we're going to look at something else - a resume. GitHub Pages sites are publicly available on the internet. 
 
-**Technologies**: We will be creating this solution with GitHub, Prose, JavaScript, HTML, BootStrap, Gravatar. All those are free. We will register a domain with  hover.com. Registering the domain is not free. You do not need to register a domain for this tutorial.  
+**Technologies**: We will be creating this solution with GitHub, Prose, JavaScript, HTML, BootStrap, Gravatar. You will not need to install anything on your computer. Everything we use in this tutorial is free. You can also register a domain with  hover.com or another provider. Registering the domain is not free. You do not need to register a domain for this tutorial.  
 
 ####Organize your existing GitHub repositories
 This page will show repositories that have a description. So if you have a repository you don't want included then don't include a description. This page will display the repository name, the programming language and the description.
