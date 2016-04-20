@@ -18,15 +18,24 @@ Create a new GitHub repository named username.github.io, where username is your 
 It's good practice to have a Readme file for every project. The Readme file  is a good place for a brief summary of your project. This tutorial will work without a readme file but the readme is your way of telling other GitHub users what your project is about.
 
 ###Working from the GitHub site
-You can complete this tutorial without additional software if you wish to work directly in the browser. Browse to Prose.io and allow Prose to access your GitHub repositories. Then select the GitHub Pages repository you created above.
+You can complete this tutorial without additional software if you wish to work directly in the browser. Browse to Prose.io and allow Prose to access your GitHub repositories. Then select the GitHub Pages repository you created above. Prose is an IDE that allows you to edit code in a GitHub repository through the browser. You can also edit right through GitHub if you like.
 
 ###Working from your computer
 If you wish to complete this tutorial from your computer then you need to clone your repository. Open a terminal in your home or workspace folder. 
+
 ```
 git clone https://username@github.com/username/repositoryname.git
+git config set-url origin https://dave45678@github.com/dave45678/DaveWolf
 ```
 
-**List git commands you need**
+**List of other git commands you need**
+```
+git add --all
+git commit -m "commit message"
+git pull
+git push -u origin master
+git status
+```
 
 ###Create an index page 
 Create a web page called index.html.  A minimal HTML5 page is below. You can create this page locally or work directly from GitHub. 
@@ -140,14 +149,14 @@ Professionals all over the world use LinkedIn to manage their professional ident
 
 Creating a link that opens in a new window is as simple as adding an anchor tag to your web page. I added mine just below the image. I used paragraph tags to ensure my link is on its own line.
 
-
-
-
-
-
+```html
+    <p/>
+    <a href="https://www.linkedin.com/in/djwolf" target="_blank">Resume (New Window)</a>
+    <p/>
+```
 
 ###Check out your page
-
+Congratulations on making it this far. Take a moment to browse to your page and check it out. You can then send the link to your friends and let them know how smart you are. The url for your 
 
 ###Register a domain
 hover.com
