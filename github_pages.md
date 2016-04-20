@@ -195,11 +195,10 @@ I added the following code below the image.
     <div id="my-github-projects"></div>
 ```
 
-
 ###Add a link to LinkedIn (or your blog, etc)
 Professionals all over the world use LinkedIn to manage their professional identity and develop their professional network. You should do the same. If you don't have a linkedIn account then you should create one now. If you'd rather link to a blog or other website that's fine, too.
 
-Creating a link that opens in a new window is as simple as adding an anchor tag to your web page. I added mine just below the image. I used paragraph tags to ensure my link is on its own line.
+Creating a link that opens in a new window is as simple as adding an anchor tag to your web page. I added mine just below the image but above the github link. I used paragraph tags to ensure my link is on its own line.
 
 ```html
     <p/>
