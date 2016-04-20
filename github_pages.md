@@ -108,6 +108,10 @@ Gravatar is a service for providing globally unique avatars. It was created by T
 
 
 ###Add Bootstrap
+Bootstrap is a free and open-source front-end library for creating websites and web applications. It contains HTML- and CSS-based design templates for typography, forms, buttons, navigation and other interface components, as well as optional JavaScript extensions. It aims to ease the development of dynamic websites and web applications.
+
+Bootstrap is a front end web framework, that is, an interface for the user, unlike the server-side code which resides on the "back end" or server.
+
 
 ###Add a link to LinkedIn (or your blog, etc)
 
