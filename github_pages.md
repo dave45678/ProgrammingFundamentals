@@ -7,7 +7,7 @@ https://api.github.com/users/dave45678/repos
 
 **Prerequisite**: you should have multiple GitHub repositories already. If not, go back and create some. If you use linkedIn or have a blog you wish to link from this site then you can. I'll also show you how to redirect a custom domain to this site as well. You can use your existing domain or register a new domain. 
 
-GitHub Pages is a free offering from GitHub.com. Pages allows you to host pages. The pages can be for a particular project. Or they can be for something else. Today we're going to look at something else - a resume. GitHub Pages sites are publicly available on the internet. 
+GitHub Pages is a free offering from GitHub.com. It allows you to static host web pages. The pages can be for a particular project. Or they can be for something else. Today we're going to look at something else - a resume. GitHub Pages sites are publicly available on the internet. 
 
 **Technologies**: We will be creating this solution with GitHub, Prose, JavaScript, HTML, BootStrap, Gravatar. You will not need to install anything on your computer. Everything we use in this tutorial is free. You can also register a domain with  hover.com or another provider. Registering the domain is not free. You do not need to register a domain for this tutorial.  
 
@@ -15,12 +15,14 @@ GitHub Pages is a free offering from GitHub.com. Pages allows you to host pages.
 This page will list repositories that have a description. If you have a repository you don't want included then don't fill in the description. This page will display the repository name, the programming language and the description.
 
 ###Create a GitHub Pages repository
-Create a new GitHub repository named username.github.io, where username is your username on GitHub.  The first part of the repository must exactly match your username. 
+Create a new GitHub repository named **username.github.io**, where username is your username on GitHub.  The first part of the repository must exactly match your username. 
 
 ###Create a branch for gh-pages
-You'll create your site on the branch called gh-pages. You can create that when set up your repository on GitHub.
+You'll create your site on the branch called **gh-pages**. You can create that when set up your repository on GitHub.
 
-All the work during this tutorial should be done under the gh-pages branch.
+You can set gh-pages as the default branch in GitHub if you go to the project settings and change the default project to gh-pages.
+
+All the work during this tutorial should be done under the **gh-pages** branch.
 
 ###Create a Readme.md file
 It's good practice to have a Readme file for every project. The Readme file  is a good place for a brief summary of your project. This tutorial will work without a readme file but the readme is your way of telling other GitHub users what your project is about.
