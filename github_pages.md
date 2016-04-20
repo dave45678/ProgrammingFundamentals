@@ -104,10 +104,18 @@ Next, add the code below to the index.html page. It should appear just before th
 Your index page should now show your repositories. You can browse to it by browsing to ```http://username.github.io```.
 
 ###Add a Gravatar
-Gravatar is a service for providing globally unique avatars. You create a global avatar which follows you around. We're going to use their service to add an avatar to this page.
+Gravatar is a service for providing globally unique avatars. Gravatars can be used on any site. Gravatar works by returning an image for the email address of hte user. The email address must be converted to an MD5 hash.
 
+All URLs on Gravatar are based on the use of the hashed value of an email address. Images and profiles are accessed via the hash of an email. It is considered the primary way of identifying an identity within the system. Follow the following steps to ensure a consistent and accurate hash.
+1. Trim leading and trailing whitespace from an email address
+2. Force all characters to lower-case
+3. Generate an MD5 hash the final string
 
+We're going to use their service to add an avatar to this page. If you don't have an account at Gravatar then visit their site (http://www.gravatar.com) and create one now. 
 
+To test your gravatar simply calculate the MD5 of your email address and browse to https://www.gravatar.com/HASH where HASH is your MD5 hash. 
+
+Once you calculate your hash add ```<img id="gravatar" src="http://gravatar.com/avatar/HASH?s=200" alt="YOUR_NAME"/> ``` to display your Gravatar image to the index.html page. Replace HASH and YOUR_NAME with the MD5 hash and your name.
 
 
 ###Add Bootstrap
