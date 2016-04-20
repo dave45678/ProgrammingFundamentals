@@ -9,10 +9,10 @@ GitHub Pages is a free offering from GitHub.com. Pages allows you to host pages.
 **Technologies**: We will be creating this solution with GitHub, Prose, JavaScript, HTML, BootStrap, Gravatar. You will not need to install anything on your computer. Everything we use in this tutorial is free. You can also register a domain with  hover.com or another provider. Registering the domain is not free. You do not need to register a domain for this tutorial.  
 
 ####Organize your existing GitHub repositories
-This page will show repositories that have a description. So if you have a repository you don't want included then don't include a description. This page will display the repository name, the programming language and the description.
+This page will list repositories that have a description. If you have a repository you don't want included then don't fill in the description. This page will display the repository name, the programming language and the description.
 
 ###Create a GitHub Pages repository
-Create a new GitHub repository named username.github.io, where username is your username on GitHub. GitHub documentation says that the first part of the repository must exactly match your username. 
+Create a new GitHub repository named username.github.io, where username is your username on GitHub.  The first part of the repository must exactly match your username. 
 
 ###Create a Readme.md file
 It's just good practice to have a Readme file for every project. The Readme file  is a good place for a brief summary of your project.
