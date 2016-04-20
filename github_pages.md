@@ -136,7 +136,9 @@ To make your page work with Bootstrap add the following code to your index.html 
 ```
 
 ###Add a link to LinkedIn (or your blog, etc)
-Millions of professionals use 
+Professionals all over the world use LinkedIn to manage their professional identity and develop their professional network. You should do the same. If you don't have a linkedIn account then you should create one now. If you'd rather link to a blog or other website that's fine, too.
+
+
 
 
 
