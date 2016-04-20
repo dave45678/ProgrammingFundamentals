@@ -17,6 +17,9 @@ This page will list repositories that have a description. If you have a reposito
 ###Create a GitHub Pages repository
 Create a new GitHub repository named username.github.io, where username is your username on GitHub.  The first part of the repository must exactly match your username. 
 
+###Create a branch for gh-pages
+You'll create your site on the branch called gh-pages. You can create that when set up your repository on GitHub.
+
 ###Create a Readme.md file
 It's good practice to have a Readme file for every project. The Readme file  is a good place for a brief summary of your project. This tutorial will work without a readme file but the readme is your way of telling other GitHub users what your project is about.
 
@@ -33,6 +36,8 @@ git config set-url origin https://dave45678@github.com/dave45678/DaveWolf
 
 **List of other git commands you need**
 ```
+git branch gh-pages
+git checkout gh-pages
 git add --all
 git commit -m "commit message"
 git pull
@@ -41,7 +46,7 @@ git status
 ```
 
 ###Create an index page 
-Create a web page called index.html.  A minimal HTML5 page is below. You can create this page locally or work directly from GitHub. 
+Work on the gh-pages branch. Create a web page called index.html.  A minimal HTML5 page is below. You can create this page locally or work directly from GitHub. 
 ```html
  <!DOCTYPE html>
 <html>
