@@ -53,7 +53,7 @@ Add the script tags for the JQuery library just below the closing head tag. Do n
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
 ```
 
-Add the following code between script tags or as an external script. I saved mine in a file called listrepos.js which is in the javascript directory.
+Add the following code between script tags or as an external script. I saved mine in a file called listrepos.js which is in a directory I created called scripts.
 
 
 ```javascript
@@ -90,7 +90,7 @@ jQuery.fn.loadRepositories = function(username) {
 };
 
 ```
-I saved my scripts in a file called listrepos.js. It's in the scripts directory I created. I then added the code below to the index.html page. It should appear just before the closing tag for ```</head>```.
+Next, add the code below to the index.html page. It should appear just before the closing tag for ```</head>```.
 
 
 ```html
@@ -101,7 +101,7 @@ I saved my scripts in a file called listrepos.js. It's in the scripts directory 
     });
 </script>
 ```
-Your index page should now showyour repositories.
+Your index page should now show your repositories. You can browse to it by browsing to ```http://username.github.io```.
 
 ###Add a Gravatar
 
