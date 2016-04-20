@@ -228,6 +228,6 @@ Add additonal information about your career. This might include work history and
 As you continue to add projects to GitHub they will show on your resume page. Your resume will always be up-to-date. In upcomping posts I'll show you how to get information from a Google spreadsheet and display it on your resume. And I'll show you how to use GitHub pages as a blog.
 
 
-Please let me know what else you would like to know about. You can reach me at ```dave45678@gmail.com```.
+Please let me know what else you would like to know about. You can reach me through my LinkedIn site or at ```dave45678@gmail.com```.
 
 
